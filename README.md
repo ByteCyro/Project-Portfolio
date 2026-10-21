@@ -5,7 +5,7 @@ A simple, fast, single-page portfolio built with plain HTML and CSS. No framewor
 📁 File Structure
 
 ├── index.html   # Main portfolio webpage
-└──style.css
+└──style.css     # Styling of the content
 └── README.md    # Project overview and notes
 
 

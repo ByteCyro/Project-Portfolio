@@ -1,6 +1,7 @@
-Minimal Portfolio Website
+Portfolio Website
 
-A simple, fast, single-page portfolio built with plain HTML and CSS. No frameworks, build steps, or external dependencies required.
+A simple, fast, single-page portfolio built with plain HTML and CSS. 
+Created for Stardance.
 
 📁 File Structure
 
@@ -9,24 +10,12 @@ A simple, fast, single-page portfolio built with plain HTML and CSS. No framewor
 └── README.md    # Project overview and notes
 
 
-🚀 How to Run
+🚀 The website is live on: https://bytecyro.github.io/Project-Portfolio/
+You can go view my other porjects on the portfolio.
 
-Download or clone this folder.
-
-Double-click index.html to open it directly in your web browser.
-
-✏️ How to Customize
-
-Open index.html in any text editor (VS Code, Notepad, etc.) to make your changes:
-
-Name & Bio: Search for Alex and replace it with your name and short introduction.
-
-Links: Update the href attributes in the contact section with your own email, GitHub, and social links.
-
-Projects: Swap out the project titles, descriptions, and URLs with your own work.
+Features:
+1.ABout Section (Info about me)
+2.Projects Section (Showcasing my Projects)
 
 🛠️ Built With
-
-Plain HTML5
-
-Pure CSS (responsive, system fonts)
+Html , Css

@@ -1,21 +1,22 @@
-Portfolio Website
+# Personal Portfolio Website
 
-A simple, fast, single-page portfolio built with plain HTML and CSS. 
-Created for Stardance.
+Live Site: https://bytecyro.github.io/Project-Portfolio/
 
-📁 File Structure
+---
 
-├── index.html   # Main portfolio webpage
-└──style.css     # Styling of the content
-└── README.md    # Project overview and notes
+## What’s Inside
 
+The site is kept minimal and split into three core sections:
+- **Main / Hero:** A brief intro, role overview, and quick links to contact me.
+- **About Me:** Background notes on my interests, development philosophy, and the tools I work with.
+- **Projects:** Direct cards linking to source code and overviews of recent work.
 
-🚀 The website is live on: https://bytecyro.github.io/Project-Portfolio/
-You can go view my other porjects on the portfolio.
+---
 
-Features:
-1.ABout Section (Info about me)
-2.Projects Section (Showcasing my Projects)
+## File Structure
 
-🛠️ Built With
-Html , Css
+```text
+Project-Portfolio/
+├── index.html    # Page structure, content, and section navigation
+├── style.css     # Clean typography, layout, and minimal styling
+└── README.md     # Project overview and notes
